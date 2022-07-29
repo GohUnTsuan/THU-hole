@@ -13,3 +13,7 @@ T 大树洞于 2020 年春季学期创立，其创立者与绝大多数管理者
 此 repo 含有树洞精品帖与全部未被封禁的树洞言论。需要注意的是，**清华树洞含有大量性相关内容（主要为图片）**，如需使用，请参考下方链接：
 
 [图片数据集](https://git.tsinghua.edu.cn/zhaochen20/THU_Tree)，需要使用清华校内身份登陆。
+
+## 下载
+
+若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。
